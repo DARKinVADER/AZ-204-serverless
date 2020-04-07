@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=gcmslearnstorage;AccountKey=NPHFvF0eVvSY5dSnyKCk4enOd706A0Z5lN12v4yFgnn9oXiCYhjMuNpmMaxgTrvZ1raCDZt9UawenSQKG6DNBA==",
+    "AzureCosmosDBConnectionString": "AccountEndpoint=https://gcmslearncosmosdb.documents.azure.com:443/;AccountKey=BrNbKuVhJwhsztmXtkpSSJtdFt6k23bk38LVoBsmRDZX6tXEyrQiiPkD3Ytj1qbnaVXxocfzmXGUMxwItejWmw==;",
+    "AzureCosmosDBMasterKey": "BrNbKuVhJwhsztmXtkpSSJtdFt6k23bk38LVoBsmRDZX6tXEyrQiiPkD3Ytj1qbnaVXxocfzmXGUMxwItejWmw==",
+    "AzureSignalRConnectionString": "<SIGNALR_CONNECTION_STRING>",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:8080",
+    "CORSCredentials": true
+  }
+}
